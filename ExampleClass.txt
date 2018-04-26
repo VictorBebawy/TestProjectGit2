@@ -1,3 +1,5 @@
 This is example file line 1
 lin2
 line3
+
+In side feature 2
